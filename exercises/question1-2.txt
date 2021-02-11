@@ -1,0 +1,34 @@
+-----------------------------------------
+|   Lab 03 By: Frederik Blais, 1763111  |
+-----------------------------------------
+
+Question 1:
+    a. How you create a fraction in Python?
+
+    b. What function converts a number to a binary
+    notation?
+
+    c. What function do you use to change the way a
+    floating point value is displayed?
+
+    d. What function allows you to create imaginary
+    numbers?
+
+    e. What the NumPy library can do, other than create
+    arrays?
+
+Question 2: Answer the following questions:
+    a. Is there a limit on how many statements I can
+    place in an if or else code block
+
+    b. Is there a limit on how many elif statements I
+    can place in an if statement
+
+    c. Which is the greater string:
+        1)
+            i. “Hello”
+            ii. “Goodbye"
+            iii. "hello"
+            iv. "HELLO"
+        2) Explain your answer
+            
